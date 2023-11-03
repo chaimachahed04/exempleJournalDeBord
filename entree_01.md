@@ -10,3 +10,6 @@ Expliquer en 5 à 10 lignes ce qui vous intéresse en TIM. Parlez de ce qui vous
 
 
 
+- Après avoir été en gestion de commerce, j'ai réaliser que ce programme n'était pas fait pour moi. Je suis rentré en TIM parce que
+jai trouvé que ce programme touche a tout ce qui est dans l'art technologique. Ce programme correspond à qui je suis et ma personnalité. J'ai choisi ce programme aussi parce qu'au secondaire je faisais un programme semblable qui touchais du montage photo et vidéo. Quand j'était petite j'aimais beaucoup faire du montage vidéo par plaisir. Je me filmais et je créais toutes sortes de scénarios. Ce programme a une certaine nostalgie pour moi puisque sa me fait penser à mon enfance et ce que je faisait pour me divertir. Ce que je pensais être une passioon d'enfance est devenue ce que je veux faire comme profession. 
+  
