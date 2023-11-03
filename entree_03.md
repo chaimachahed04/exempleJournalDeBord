@@ -1,20 +1,5 @@
 # Entrée 3
 ## Plan de carrière
 
-### Présentation
-Parlez de vous. 
-
-### Intérêts dans le domaine
-Parlez de vos intérêts en multimédia. 
-
-### Emplois qui vous intéressent
-Nommez deux emplois.
-
-### Identification
-Nommez une entreprise et un artiste auxquels vous vous identifiez et expliquez pourquoi. 
-
-### Dans 5 ans
-Où vous voyez-vous dans 5 ans? 
-
-### Projets
-Expliquez un ou des projets que vous aimeriez faire. 
+  - Je suis encore indécise par apport au métier que je souhate faire. J'hésite beaucoup entre designer graphique, infographiste et animatrice 2D 3D. Ce que je suis sur c'est que je veux mettre ma créativité a l'œuvre. Je veux aussi être travailleuse autonome et avoir mon propre business dans le domaine que je choisirais. J'ai encore beaucoup à apprendre dans cette technique c'est pour sa que je veux prendre mon temps pour prendre une décision. Je suis encore à ma premiere session de multimédia et cette technique me permettra de toucher à tout pour prendre une décision finale. Je reste très optimiste parce que jai confiance en ce programme pour me montrer le bon choix. 
+      
