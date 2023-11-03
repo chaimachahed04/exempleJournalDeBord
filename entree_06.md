@@ -1,15 +1,4 @@
 # Entrée 6
 ## Analyse critique d'une oeuvre
 
-L’objectif de cet exercice est de développer une opinion sur une œuvre multimédia. Pour l’analyse, choisissez l’une des œuvres que nous avons visitées. 
-
-Entre 300 et 400 mots. 
-
-### Description
-Décrivez l'oeuvre. Quelles étaient les composantes de l'installation? Comment était-elle réalisée techniquement? 
-
-### Opinion
-Donnez votre opinion sur l'oeuvre que nous avons visitée. Vous a-t-elle plu? Ou pas du tout? Pourquoi? Est-ce que certains aspects vous ont plus touchés que d'autres? 
-
-### Analyse critique
-Qu'est-ce qui pourrait être modifié dans cette oeuvre? 
+L'escape game était une expérience inoubliable. S'était une première fois pour moi. J'ai beaucoup apprécié le décor du jeu. Ont dirait qu'on était vraiment dans un vrai train. Pour couronner sa, le train bougeait dans tout les sens ce qui rendais le décor très réaliste. En sortant du train ont c'est trouvé dans une ruel ou se trouvait un personnage pour accompagner le jeu. L'acting du personnages était très bien fait, il me stressait beaucoup parce que je m'attendais jamais a sa prochaine apparition. Ce qui a rendu l'expérience fun, c'est notre professeur qui est rentré avec nous et a participer en adaptant le role du papa du personnage. Nous avons par contre perdu quelques minutes à cause qu'ont a ouvert une porte de sécurité parce qu'ont pensais que s'était une ruse. Malgré ça ont a gagner a une seconde de la fin, le meuneur de jeu à été genreux de nous laisser quelques secondes de plus pcq ont avait la bonne réponse. Globalement s'était une très belle sortie qui nous a permis de bien décompresser des études. J'aimerais beaucoup y reparticiper. 
