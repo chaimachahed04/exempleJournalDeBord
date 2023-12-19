@@ -5,7 +5,7 @@ Durée: 8 à 10 minutes
 ### Résumer votre projet en une phrase
 Résumer le projet en une phrase concise. 
 
-Lee projet est un escape game dans le de the riddler dans batman. 
+Le projet est un escape game dans le thème de the riddler dans batman. 
 
 ### Moodboard
 Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moodboard, de maquettes ou de croquis. 
@@ -22,10 +22,12 @@ Montrer nous l'allure visuelle et sonore qu'aura votre projet à l'aide d'un moo
 ### Technologies
 Décrivez quelles seront les technologies utilisées dans votre projet. 
 
-
-
-
+Des technologies tel que des capteurs magnétiques, des serrures électroniques, des détecteurs de mouvement, des caméras, des écrans tactiles, des systèmes de contrôle d'accès sont nécessaires pour contrôler l'accès aux différentes zones et déclencher des indices. Aussi, des effets d'éclairage spéciaux, des décors interactifs et des effets spéciaux vont être mis pour améliorer l'expérience. Ensuite, des éléments audiovisuels sont essentiels pour créer une atmosphère immersive. Cela inclut la musique, les effets sonores, les graphismes, les vidéos, etc.
 
 ### Tâches
 Quelles sont les tâches nécessaires à la réalisation de votre projet? 
+
+Tout dabord, il faut crée un scénario avec une histoire intrigante qui va pousser à chercher des réponses pour répondre au mystère. Ensuite, il faut faire la conception d'énigmes stimulantes qui vont avoir rapport dans le sénario. Après, concevoir des décors qui vont venir mettre une ambiance pour les joueurs et va correspondre au thème de l'histoire. De plus, il faudra former un personel qui vont devoir integrer l'histoire, tel que des acteur pour ajouter une touche de réalisme au jeu. Ces tâches sont necessaire pour faire un jeu d'évasion stimulant. 
+
+
 
