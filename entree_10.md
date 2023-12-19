@@ -33,6 +33,8 @@ Quelle présentation avez-vous préféré et pourquoi?
 ## Rétrospective de la session
 ## Écris un retour sur ta session (1 à 2 lignes par question)
 
+J'ai beaucoup appris dans cette session et explorer de nouveau talent et j'ai été éclarer dans quel domaine de carrière je souhaite aller.
+
 ### Entre le cours 1 et aujourd'hui, quelles découvertes as-tu faites sur le domaine du multimédia? 
 
 J'ai decouvert que le domaine multimédia ouvre beaucoup de porte et que c'est un domaine très demander puisqu'il n 'y a pas beaucoup de personne sur le marché du travail
